@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Ops Engineer<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I like to explore</p>
+<p align="left">- 🔭 I’m working as Ops Engineer<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I like to explore</p>
 
 ###
 
